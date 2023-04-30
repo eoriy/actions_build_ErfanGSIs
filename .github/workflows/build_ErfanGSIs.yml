@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://hfaeeeh825gdulv90jjfkafk6ubb3qlbkijtjncro7uljcdc4mavv26g.qc.dolfincdnx.net:7843/xdispatchab6b0cc17700532a/bigota.d.miui.com/9.9.3/miui_MINote3_9.9.3_8d6a39bce1_9.0.zip?BSLuBan=eyJob3N0IjoiYmlnb3RhLmQubWl1aS5jb20iLCJic3JlcWlkIjoiYjYzOTgxZmFhNWFhOTI1ODcxMWZlODUyOTMyMWMwNDUiLCJjYWNoZV9rZXkiOiJcLzkuOS4zXC9taXVpX01JTm90ZTNfOS45LjNfOGQ2YTM5YmNlMV85LjAuemlwIiwiZG5zX2hvc3QiOiJwZjAwMy52LmJzZ3NsYi5jbiIsImtleSI6IjUyYjQ0ZTExNTgzZDViNjNjYmZkZDM3OGMyYTM4YTNiIiwidHMiOjE2ODI4NDMzNDB9
   ROM_NAME: MIUI
-  BUILD_TYPE: Aonly
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
